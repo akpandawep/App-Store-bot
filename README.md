@@ -38,11 +38,11 @@ Credit - [@CodeXbotz](https://t.me/CodeXBotz). [@Anime_X_Hunters](https://t.me/A
 ##
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Sahil0976/MultiForce-Sub
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
+!git clone https://github.com/akpandawep/App-Store-bot
+cd App-Store-bot
+!pip3 install -r requirements.txt
 # <Create config.py appropriately>
-python3 main.py
+!python3 main.py
 ````
 
 ### Admin Commands
