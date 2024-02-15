@@ -59,7 +59,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "​🚫Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ​ - @PandaWep"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append()
+ADMINS.append(5754154245)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
